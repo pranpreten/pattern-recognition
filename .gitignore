@@ -1,0 +1,23 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.idea/
+
+# Titanic 데이터셋 (원본 CSV 등은 크거나 저작권 문제 있을 수 있음)
+titanic/
+
+# 결과 엑셀 (개인 제출용이라서 깃에는 불필요)
+submission_result*
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter 자동 생성 파일
+*.ipynb_checkpoints
+*.ipynb_save
+
+# OS 관련 불필요 파일
+.DS_Store
+Thumbs.db
